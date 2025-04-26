@@ -2,15 +2,16 @@
 
 ![hotel_reservation_image](https://github.com/user-attachments/assets/aa6a780a-0f8a-4edc-9c04-698ac5dabe8d)
 
-## 💻 Table of content
+# 💻 Table of content
 
-- [introduction](#📌Introduction).
-- [Dataset-Overview](#Dataset-Overwiew).
-- [Project-Objectives](#Dataset-Objective).
-- [Data-Cleaning](#Data-Cleaning).
-- [Data-exploration and Insight](#Data-exploration-and-insight).
-- [Recommendation](#Recommendation).
-- [Conclusion](#🧾Conclusion).
+- [Introduction](#introduction)
+- [Dataset Overview](#dataset-overview)
+- [Project Objectives](#project-objectives)
+- [Data Cleaning](#data-cleaning)
+- [Data Exploration and Insight](#data-exploration-and-insight)
+- [Recommendation](#recommendation)
+- [Conclusion](#conclusion)
+- [Tech Stack](#tech-stack)
   
  --- 
  
@@ -50,7 +51,26 @@ The dataset contains detailed information about hotel reservations, including:
 - Analyze cancellation patterns and lead times.
 - Explore the impact of booking channels on revenue.
 - Provide actionable recommendations to optimize hotel management strategies.
+  
+## 📋 Problem Statement
 
+You are tasked with analyzing this hotel reservation dataset using SQL. Here are 15 questions for which you will write SQL queries to gain insights:
+﻿﻿﻿1.What is the total number of reservations in the dataset?
+﻿﻿﻿2.Which meal plan is the most popular among guests?
+﻿﻿3.What is the average price per room for reservations involving children?
+﻿﻿﻿4.How many reservations were made for the year 20XX (replace XX with the desired year)?
+5.﻿﻿﻿What is the most commonly booked room type?
+﻿﻿﻿6.How many reservations fall on a weekend (no_of_weekend_nights > 0)?
+7.﻿﻿﻿What is the highest and lowest lead time for reservations?
+﻿﻿﻿8.What is the most common market segment type for reservations?
+﻿﻿﻿9.How many reservations have a booking status of "Confirmed"?
+﻿﻿﻿﻿10.What is the total number of adults and children across all reservations?
+﻿﻿﻿﻿11.What is the average number of weekend nights for reservations involving children?
+﻿﻿﻿﻿12.How many reservations were made in each month of the year?
+﻿﻿﻿﻿13.What is the average number of nights (both weekend and weekday) spent by guests for each room
+﻿﻿﻿﻿14.For reservations involving children, what is the most common room type, and what is the average price for that room type?
+15.﻿﻿﻿﻿Find the market segment type that generates the highest average price per room.
+Good luck, and enjoy your journey into the world of data analysis!
 ---
 
 ## 🧹 Data Cleaning.
@@ -104,7 +124,7 @@ This hotel reservation analysis project demonstrated the power of SQL in extract
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tech Stack
 
 - SQL (MySQL)
 - Git & GitHub
