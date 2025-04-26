@@ -4,13 +4,13 @@
 
 ## 💻 Table of content
 
-- [introduction](#Introduction).
+- [introduction](#📌Introduction).
 - [Dataset-Overview](#Dataset-Overwiew).
 - [Project-Objectives](#Dataset-Objective).
 - [Data-Cleaning](#Data-Cleaning).
 - [Data-exploration and Insight](#Data-exploration-and-insight).
 - [Recommendation](#Recommendation).
-- [Conclusion](#Conclusion).
+- [Conclusion](#🧾Conclusion).
   
  --- 
  
