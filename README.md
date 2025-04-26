@@ -14,13 +14,13 @@
   
  --- 
  
-## 📌 Introduction
+## 📌 Introduction.
 
 The hotel industry thrives on its ability to understand guest behavior and booking patterns. This project leverages SQL to analyze a hotel reservation dataset, helping to answer key business questions such as booking trends, guest preferences, seasonal patterns, and cancellation rates. The goal is to develop practical SQL data analysis skills while uncovering insights that can optimize hotel operations and enhance guest satisfaction.
 
 ---
 
-## 📊 Dataset Overview
+## 📊 Dataset Overview.
 The dataset used in analysis consist of 13 columns and 700 rows
 
 ![Screenshot 2025-04-26 hotel_rsrvtn](https://github.com/user-attachments/assets/a5b2fbc8-a46f-4574-8ab7-cf504999aab8)
@@ -42,7 +42,7 @@ The dataset contains detailed information about hotel reservations, including:
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Objectives.
 
 - Clean and prepare the dataset for analysis.
 - Understand guest behavior and booking trends.
@@ -53,7 +53,7 @@ The dataset contains detailed information about hotel reservations, including:
 
 ---
 
-## 🧹 Data Cleaning
+## 🧹 Data Cleaning.
 
 Before performing analysis, the following cleaning steps were taken:
 
@@ -65,7 +65,7 @@ Before performing analysis, the following cleaning steps were taken:
 
 ---
 
-## 🔍 Data Exploration and Insights
+## 🔍 Data Exploration and Insights.
 
 ### 📈 Booking Patterns
 - **Total Reservations**: Counted the total number of reservations.
@@ -88,7 +88,7 @@ Before performing analysis, the following cleaning steps were taken:
 
 ---
 
-## ✅ Recommendations
+## ✅ Recommendations.
 
 1. **Promote Popular Meal Plans and Room Types**: Bundle popular services to maximize guest satisfaction and upsell opportunities.
 2. **Optimize Pricing for High Lead Time Bookings**: Implement dynamic pricing strategies for long lead time reservations.
@@ -98,7 +98,7 @@ Before performing analysis, the following cleaning steps were taken:
 
 ---
 
-## 🧾 Conclusion
+## 🧾 Conclusion.
 
 This hotel reservation analysis project demonstrated the power of SQL in extracting meaningful insights from real-world data. Through comprehensive data cleaning, exploration, and interpretation, the project highlights critical trends in guest behavior, booking channels, pricing, and seasonal variations. By applying these insights, hotel managers can optimize operations, improve guest experiences, and enhance overall profitability.
 
